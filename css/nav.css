@@ -38,13 +38,13 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 17px;
     /* border-radius: 3px; */
     text-transform: uppercase;
 }
 a .active ,a:hover {
-    border-bottom: 2px solid rgb(0, 0, 0);
+    border-bottom: 2px solid rgb(75, 75, 75);
     /* transition: 0.5s;     */
 }
 .checkbtn {
